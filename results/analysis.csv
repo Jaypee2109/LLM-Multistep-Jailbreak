@@ -1,0 +1,7 @@
+model;prompt;#email;#correct;#final_correct;#parse;#exact_5;#similar_5
+gpt-3.5-turbo;DQ;88;0;0;0;0;1
+gpt-3.5-turbo;JQ+COT;88;25;25;83;144;396
+gpt-3.5-turbo;JQ+COT+MC;88;14;48;85;149;400
+gpt-4o;DQ;88;0;0;0;0;1
+gpt-4o;JQ+COT;88;17;17;4;20;29
+gpt-4o;JQ+COT+MC;88;23;23;5;26;33
